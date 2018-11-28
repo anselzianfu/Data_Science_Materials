@@ -1,0 +1,100 @@
+\documentclass{article}
+
+\usepackage{amsthm,amsmath,amssymb}
+\usepackage[numbers]{natbib}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,%
+    citecolor=black,%
+    filecolor=black,%
+    linkcolor=black,%
+    urlcolor=black
+}
+\usepackage{hypernat}
+\usepackage[top=2.5cm, bottom=2.5cm, left=2.8cm,
+right=2.8cm]{geometry} 
+
+\linespread{1}
+
+
+\setlength{\parskip}{1.4 \medskipamount}
+
+\begin{document}
+
+\title{Proj2 Rubric}       
+
+
+\maketitle
+
+\section*{Question 1}
+ 
+\subsection*{Written Description (2 pts)}
+
+No partial credit. Full credit for any answer that points out any difference that might relate to the identification of spam.
+
+\noindent Our answer is ``'It looks like the spam email has HTML tags. If many spam emails have HTML tags, we can use them to predict whether an email is spam or ham.'' 
+
+
+\section*{Question 3}
+
+\subsection*{Part a (2 pts)}
+
+Subtract off {\bf $\frac{1}{2}$ points} for any of the following reasons:
+\begin{itemize}
+\item They used the exact same set of words as in the example plot.
+\item They labelled the legend something other than ``Spam'' and ``Ham'' (capitalized)
+\item They labelled the $y$-axis something other than ``Proportion of Emails''
+\item Each pair of bars (i.e. the proportion of spam and ham emails containing a certain word) is within $1\%$. This most likely indicates that they did not reset the index for the variable $\texttt{train}$, but it could also mean all the words they picked were not discriminative.
+\end{itemize}
+
+\subsection*{Part b (2 pts)}
+
+Subtract off {\bf $\frac{1}{2}$ points} for any of the following reasons:
+\begin{itemize}
+\item They labelled the legend something other than ``Spam'' and ``Ham'' (capitalized)
+\item They did not provide a human-readable and formatted label for the $x$-axis.
+\end{itemize}
+Additionally, if they did use the ``Fraction of Uppercase Letters'' as their variable, subtract off {\bf $1$ point} if their $y$ limits look significantly different from the example plot (e.g. some students had density plots up to $y=25$ because they divided by the total number of characters instead of the total number of letters).
+
+\newpage
+
+\section*{Question 6}
+
+\subsection*{Written Description (3 pts)}
+This question is at the very end of Question 6 right before {\bf Part II - Moving Forward}. For the written responses, parts (d), (e), and (f) are each worth $1$ point. They should say something along these lines for each question:
+\begin{enumerate}
+\item[(d)] Our logistic regression classifier does virtually no better than labelling `ham' for every email.
+\item[(e)] The words we've chosen as our features aren't actually present in many of the emails so the classifier can't use them to distinguish between ham/spam emails.
+\item[(f)] Any justification for which classifier they'd prefer that accounts for their findings in this question.
+\end{enumerate}
+
+\section*{Question 7 (6 pts)}
+
+{\bf $2$ points} for a reasonable answer to each of the following:
+\begin{itemize}
+\item How did you find better features for your model?
+\item What did you try that worked / didn't work?
+\item What was surprising in your search for good features?
+\end{itemize}
+
+\section*{Question 8 (6 pts)}
+
+\subsection*{Plot (3 pts)}
+
+Subtract off {\bf $1$ point} for any of the following reasons:
+\begin{itemize}
+\item No labeled axes, title or legend. It should be clear on the plot itself what feature you are studying and which points are spam or ham.
+\item Not comparing spam and ham in the plot (or another comparison that's helpful for feature selection).
+\item Plot doesn't show compelling difference, plot doesn't show the feature, or any plotting problems such as overplotting that make it challenging to appreciate the plot.
+\end{itemize}
+
+\subsection*{Commentary (3 pts)}
+
+No points if there is no description of findings and implications or if their findings are completely wrong. Subtract off {\bf 1 point} if their description of findings and implications was only partially correct.
+
+\section*{Question 9 (3 pts)}
+
+Subtract off {\bf $3$ points} if the plot was not created or if the shape was incorrect.
+
+\end{document}
