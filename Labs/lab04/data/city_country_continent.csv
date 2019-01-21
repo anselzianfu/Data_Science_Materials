@@ -1,0 +1,98 @@
+City,Country,Latitude,Longitude,Continent
+Abidjan,Côte D'Ivoire,5.63,-3.23,Africa
+Addis Abeba,Ethiopia,8.84,38.11,Africa
+Ahmadabad,India,23.31,72.52,Asia
+Bangalore,India,12.05,77.26,Asia
+Bombay,India,18.48,72.68,Asia
+Calcutta,India,23.31,88.25,Asia
+Delhi,India,28.13,77.27,Asia
+Hyderabad,India,16.87,78.7,Asia
+Jaipur,India,26.52,75.22,Asia
+Kanpur,India,26.52,80.6,Asia
+Lakhnau,India,26.52,80.6,Asia
+Madras,India,13.66,80.09,Asia
+Nagpur,India,21.7,78.75,Asia
+New Delhi,India,28.13,77.27,Asia
+Pune,India,18.48,74.37,Asia
+Surat,India,21.7,73.56,Asia
+Aleppo,Syria,36.17,37.79,Asia
+Alexandria,Egypt,31.35,30.16,Africa
+Cairo,Egypt,29.74,31.38,Africa
+Gizeh,Egypt,29.74,31.38,Africa
+Ankara,Turkey,39.38,33.29,Asia
+Istanbul,Turkey,40.99,29.82,Asia
+Izmir,Turkey,37.78,26.44,Asia
+Baghdad,Iraq,32.95,45.0,Asia
+Bangkok,Thailand,13.66,99.91,Asia
+Belo Horizonte,Brazil,-20.09,-44.36,South America
+Brasília,Brazil,-15.27,-47.5,South America
+Fortaleza,Brazil,-4.02,-40.98,South America
+Rio De Janeiro,Brazil,-23.31,-42.82,South America
+São Paulo,Brazil,-23.31,-46.31,South America
+Salvador,Brazil,-13.66,-38.81,South America
+Berlin,Germany,52.24,13.14,Europe
+Bogotá,Colombia,4.02,-74.73,South America
+Cali,Colombia,4.02,-76.34,South America
+Cape Town,South Africa,-32.95,18.19,Africa
+Durban,South Africa,-29.74,31.38,Africa
+Casablanca,Morocco,32.95,-6.7,Africa
+Changchun,China,44.2,125.22,Asia
+Chengdu,China,31.35,103.66,Asia
+Chongqing,China,29.74,107.08,Asia
+Dalian,China,39.38,120.69,Asia
+Guangzhou,China,23.31,112.72,Asia
+Harbin,China,45.81,125.77,Asia
+Jinan,China,36.17,117.35,Asia
+Nanjing,China,31.35,118.74,Asia
+Peking,China,39.38,116.53,Asia
+Shanghai,China,31.35,120.63,Asia
+Shenyang,China,40.99,123.55,Asia
+Taiyuan,China,37.78,111.86,Asia
+Tangshan,China,37.78,113.9,Asia
+Tianjin,China,39.38,116.53,Asia
+Wuhan,China,29.74,114.46,Asia
+Xian,China,34.56,108.97,Asia
+Chicago,United States,42.59,-87.27,North America
+Los Angeles,United States,34.56,-118.7,North America
+New York,United States,40.99,-74.56,North America
+Dakar,Senegal,15.27,-17.5,Africa
+Dar Es Salaam,Tanzania,-7.23,39.73,Africa
+Dhaka,Bangladesh,23.31,90.0,Asia
+Faisalabad,Pakistan,31.35,73.51,Asia
+Karachi,Pakistan,24.92,67.39,Asia
+Lahore,Pakistan,31.35,73.51,Asia
+Harare,Zimbabwe,-18.48,30.42,Africa
+Ho Chi Minh City,Vietnam,10.45,107.18,Asia
+Ibadan,Nigeria,7.23,4.05,Africa
+Kano,Nigeria,12.05,8.22,Africa
+Lagos,Nigeria,5.63,3.23,Africa
+Jakarta,Indonesia,-5.63,106.55,Asia
+Surabaya,Indonesia,-7.23,112.7,Asia
+Jiddah,Saudi Arabia,21.7,38.94,Asia
+Riyadh,Saudi Arabia,24.92,46.11,Asia
+Kabul,Afghanistan,34.56,70.05,Asia
+Kiev,Ukraine,50.63,31.69,Europe
+Kinshasa,Congo (Democratic Republic Of The),-4.02,15.27,Africa
+Lima,Peru,-12.05,-77.26,South America
+London,United Kingdom,52.24,-0.0,Europe
+Luanda,Angola,-8.84,13.78,Africa
+Madrid,Spain,40.99,-4.26,Europe
+Manila,Philippines,15.27,120.83,Asia
+Mashhad,Iran,36.17,59.67,Asia
+Melbourne,Australia,-37.78,144.41,Oceania
+Sydney,Australia,-34.56,151.78,Oceania
+Mexico,Mexico,20.09,-98.96,North America
+Mogadishu,Somalia,2.41,45.8,Africa
+Montreal,Canada,45.81,-72.69,North America
+Toronto,Canada,44.2,-80.5,North America
+Nagoya,Japan,34.56,136.22,Asia
+Tokyo,Japan,36.17,139.23,Asia
+Nairobi,Kenya,-0.8,36.16,Africa
+Paris,France,49.03,2.45,Europe
+Rome,Italy,42.59,13.09,Europe
+Santiago,Chile,-32.95,-69.89,South America
+Santo Domingo,Dominican Republic,18.48,-69.3,North America
+Seoul,South Korea,37.78,126.1,Asia
+Singapore,Singapore,0.8,103.66,Asia
+Taipei,Taiwan,24.92,122.36,Asia
+Umm Durman,Sudan,15.27,32.5,Africa
